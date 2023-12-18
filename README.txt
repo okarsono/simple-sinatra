@@ -1,1 +1,0 @@
-Sample Sinatra server
